@@ -14,5 +14,5 @@
 
 | Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | Multiplataforma |
 :---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
- `Zabbix` | 
- `CheckMK` | community/Enterprise | SI  | FACIL | SI | SI | SI | SI | SI | SI | LINUX |
+ `Zabbix` | COMMUNITY | SI | FÁCIL | SI | SI | SI | SI | SI | SI | WINDOWS/LINUX |
+ `CheckMK` | COMMUNITY/ENTERPRISE| SI  | FÁCIL | SI | SI | SI | SI | SI | SI | LINUX |
