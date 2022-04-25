@@ -13,6 +13,6 @@
 
 
 Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | Multiplataforma |
-|---------|----------|---------|---------|---------|---------|---------|---------|---------|---------|---------
+|---------|----------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
  `Zabbix` | 
  `CheckMK` | 
