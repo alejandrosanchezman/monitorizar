@@ -15,4 +15,4 @@
 | Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | Multiplataforma |
 :---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
  `Zabbix` | COMMUNITY | SI | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | WINDOWS/LINUX |
- `CheckMK` | COMMUNITY/ENTERPRISE| SI  | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | LINUX/CENTOS |
+ `CheckMK` | COMMUNITY/ENTERPRISE| SI  | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | LINUX |
