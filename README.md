@@ -11,8 +11,8 @@
 
 
 
-Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | 
----------|----------|---------|---------|---------|---------|---------|---------|---------|---------|---------
- `Zabbix` | B1 | C1| C1
- `CheckMK` | B2 | C2| C1
- A3 | B3 | C3| C1
+
+Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | Multiplataforma |
+|---------|----------|---------|---------|---------|---------|---------|---------|---------|---------|---------
+ `Zabbix` | 
+ `CheckMK` | 
