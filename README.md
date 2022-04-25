@@ -16,3 +16,19 @@
 :---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
  **`ZABBIX`** | COMMUNITY | SI | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | WINDOWS/LINUX |
  **`CHECKMK`** | COMMUNITY/ENTERPRISE| SI  | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | LINUX |
+
+---------------------------------------------------------------------------------------------
+
+INSTALACIÓN DE ZABBIX:
+# wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-1+ubuntu20.04_all.deb
+# dpkg -i zabbix-release_6.0-1+ubuntu20.04_all.deb
+# apt update
+```
+wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-1+ubuntu20.04_all.deb
+dpkg -i zabbix-release_6.0-1+ubuntu20.04_all.deb
+apt update
+
+apt install zabbix-server-mysql zabbix-frontend-php zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+```
+
+![image](https://user-images.githubusercontent.com/94168147/165143989-6f90876f-76c8-49cb-b37c-90ef25418215.png)
