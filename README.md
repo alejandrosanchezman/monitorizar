@@ -12,7 +12,7 @@
 
 
 
-| Herramientas | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas preconfiguradas | Dashboard configurable | Configuracion de plugins | Alertas | Multiplataforma |
+| Herramienta | Licencia | Panel web | Instalacion | Mapa de red | Comunidad | Reglas Preconfiguradas | Dashboard Configurable | Configuracion de Plugins | Alertas | Multiplataforma |
 :---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
  **`ZABBIX`** | COMMUNITY | SI | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | WINDOWS/LINUX |
  **`CHECKMK`** | COMMUNITY/ENTERPRISE| SI  | FÁCIL | SI | ACTIVA | MÚLTIPLES REGLAS | ALTA CONFIGURACIÓN | SI | SI | LINUX |
