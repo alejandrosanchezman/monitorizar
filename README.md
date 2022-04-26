@@ -79,4 +79,14 @@ sudo omd create prueba
 ![image](https://user-images.githubusercontent.com/94168011/165369427-4738b748-1a1c-4155-9c1a-a515a4bf0dc3.png)
 Instalamos el agente en la maquina a escanear y lo añadimos a nuestro servidor de monitorización.
 
+## creamos el host que representa la mauina a analizar.
+![image](https://user-images.githubusercontent.com/94168011/165369786-581a7bc7-939b-47dd-ae78-6cbdf474cf37.png)
+![image](https://user-images.githubusercontent.com/94168011/165369837-5bf549ce-da81-45cf-a8b5-322e32d3bb80.png)
+Una vez añadimos un host lo configuramos para que tenga conexion y compruebe la existencia del agente en el ordenador.
+![image](https://user-images.githubusercontent.com/94168011/165369967-e3b96121-2d23-485b-9c03-f6d2f9ba8906.png)
+![image](https://user-images.githubusercontent.com/94168011/165370644-32b0a10e-be62-40c8-b7e8-aeddacf6b49d.png)
+## Para terminar se nos mostrara en el dashboard junto a las maquinas que tengamos monitorizando.
+![image](https://user-images.githubusercontent.com/94168011/165371028-126a09df-99b7-4b30-8eb4-c3c65121fc20.png)
+
+
 
