@@ -57,3 +57,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 ## Configurar la interfaz de Zabbix:
 Conéctate a tu interfaz Zabbix recién instalada: http://server_ip_or_name/zabbix
 ![image](https://user-images.githubusercontent.com/94168147/165143989-6f90876f-76c8-49cb-b37c-90ef25418215.png)
+
+# INSTALACIÓN CHECKMK
+Para la instalacion nos dirigimos a la pagina de la aplicacion en cuestion Checkmk y escogemos el sistema operativo sobre el que se va a realizar la instalacion.
+![image](https://user-images.githubusercontent.com/94168011/165365853-8ac40f2d-4005-4ef4-8e4c-6eb8d4e50abf.png)
