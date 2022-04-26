@@ -64,7 +64,7 @@ Para la instalacion nos dirigimos a la pagina de la aplicacion en cuestion Check
 
 ## Una vez descargado comenzamos la instalacion del programa:
 ```
-sudo apt install ./check-mk-raw-1.6.0p27_0.focal_amd64.deb
+sudo apt install ./check-mk-raw-2.0.0p23_0.focal_amd64.deb
 ```
 ## Creacion del servidor de monitorizacion.
 ```
