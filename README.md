@@ -61,3 +61,22 @@ Conéctate a tu interfaz Zabbix recién instalada: http://server_ip_or_name/zabb
 # INSTALACIÓN CHECKMK
 Para la instalacion nos dirigimos a la pagina de la aplicacion en cuestion Checkmk y escogemos el sistema operativo sobre el que se va a realizar la instalacion.
 ![image](https://user-images.githubusercontent.com/94168011/165365853-8ac40f2d-4005-4ef4-8e4c-6eb8d4e50abf.png)
+
+## Una vez descargado comenzamos la instalacion del programa:
+```
+sudo apt install ./check-mk-raw-1.6.0p27_0.focal_amd64.deb
+```
+## Creacion del servidor de monitorizacion.
+```
+sudo omd create prueba
+```
+![image](https://user-images.githubusercontent.com/94168011/165368541-f92dd2f8-479f-4845-8cc9-184d7bbc0814.png)
+
+## tras crear el servidor dependiendo de los hosts que tengas eliges el sistema operativo y te bajas el agente de la pagina creada anteriormente.
+![image](https://user-images.githubusercontent.com/94168011/165369312-bd973648-a386-4ba3-8fda-d2deed8e674a.png)
+
+## elegimos el SO que necesitemos.
+![image](https://user-images.githubusercontent.com/94168011/165369427-4738b748-1a1c-4155-9c1a-a515a4bf0dc3.png)
+Instalamos el agente en la maquina a escanear y lo añadimos a nuestro servidor de monitorización.
+
+
